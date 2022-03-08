@@ -1,5 +1,4 @@
 import React from "react";
-import {ReactComponent as EmailLogo} from "./styles/icons/email.svg"
 import { ReactComponent as LinkedInLogo } from "./styles/icons/linkedin.svg"
 import {ReactComponent as GitHubLogo} from "./styles/icons/github.svg"
 
