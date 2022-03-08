@@ -20,9 +20,9 @@ export default function Main(){
             </div>
 
 
-            <div className="p-10 text-white m-auto max-w-xl">
+            <div className="p-8 text-white m-auto max-w-xl">
             <h3 className="font-bold text-2xl">About</h3>
-            <p className="font-normal pt-2">problem-solving. everything that involves the technological side of the digital realm is his area of expertise. hai is always up for freelancing and consulting on additional projects specifically working with other queer and trans people of color.</p>
+            <p className="font-normal pt-2">problem-solving. everything that involves the technological side of the digital realm is his area of expertise. hai is always up for freelancing and consulting on additional projects.</p>
             
             <br></br>
                 
